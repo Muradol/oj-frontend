@@ -23,7 +23,7 @@
         max-height="500"
       >
         <el-table-column fixed prop="id" label="ID" width="150" />
-        <el-table-column prop="name" label="实验名称" width="280" />
+        <el-table-column prop="name" label="实验名称" width="250" />
         <el-table-column prop="timestamp" label="发布时间" width="370" />
         <el-table-column fixed="right" label="操作">
           <template #default="scope">

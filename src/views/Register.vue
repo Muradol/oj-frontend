@@ -133,7 +133,7 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #5c3aff 0%, #7c67ff 100%);
+  background: linear-gradient(to bottom, #6b6180, #121213);
 }
 
 .register-box {

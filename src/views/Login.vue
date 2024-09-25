@@ -129,7 +129,7 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(to bottom, #4a00e0, #8e2de2);
+  background: linear-gradient(to bottom, #6b6180, #121213);
 }
 
 .login-box {
@@ -210,7 +210,6 @@ export default {
 }
 
 .register-link div:hover {
-  color: rgb(214, 117, 174);
   text-decoration: underline;
 }
 
